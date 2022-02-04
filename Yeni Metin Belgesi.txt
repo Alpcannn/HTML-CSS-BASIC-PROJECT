@@ -1,0 +1,14 @@
+/* Patika.ödevdeki ilk paragrafı giriş cümlesi olarak kullan.
+Harley davidson sayfasındaki renkleri kopya çek.
+*/
+1->Css dosyalarından body etiketinin backgroundunu yaz.
+2->Htmlden paragrafları başlıkları belirle
+3->linkler için patikanın eğitimlerini adres ver.
+4->Etiketleri class içine al ve css de kozmtiğini düzenle.
+5->Patika renkli bir yapıya sahip olduğu için canlı renkler kullan worlden yaptığın ödevdeki renkleri kullan. 
+6->Bilgi aldığın siterleri en aşağıda linklerle belirt.
+7->Renkler için "colorhunt" sayfasını kullan.
+8->Takıldığın noktalarda "Fatih Hayrıoğlunu" sitesine yönel.
+
+** https://medium.com/@aysenurerdem/patika-dev-bootcamp-h%C4%B1zland%C4%B1rma-program%C4%B1-deneyimim-1d5c72cf726f **
+

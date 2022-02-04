@@ -1,0 +1,48 @@
+body{
+    background-color:rgb(153, 254, 255) ;
+}
+
+
+
+
+.baslık .font-color{
+    color: rgb(76, 0, 39) ;
+    color: orange;
+}
+
+ p{
+    color:rgb(4, 3, 3) ;
+    font-family: cursive;
+}   
+
+.color-blue.fw-normal{
+    color: blue;
+    font-weight: normal;
+}
+
+ ul > li  :first-child{
+    color: blue;
+     
+ }
+ 
+.box{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    padding: 30px;
+    float: right;
+    margin: 10px;
+    
+}
+
+.clear{
+    clear:both;
+}
+
+.bg-red{
+    background-color: red;
+}
+
+.bg-green{
+    background-color: green;
+}
